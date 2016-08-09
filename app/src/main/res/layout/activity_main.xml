@@ -24,6 +24,12 @@
         android:layout_height="wrap_content"
         android:text="Valoo"/>
 
+    <ListView
+        android:id="@+id/lista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
