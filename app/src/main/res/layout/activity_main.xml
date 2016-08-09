@@ -11,6 +11,13 @@
         android:layout_height="wrap_content"
         android:text="@string/valor" />
 
+
+    <EditText
+        android:id="@+id/edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hide" />
+
     <Button
         android:id="@+id/bot"
         android:layout_width="match_parent"

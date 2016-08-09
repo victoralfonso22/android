@@ -10,8 +10,9 @@
     tools:context="com.example.victor.miaplicacion.SegundaActivity">
 
     <TextView
+        android:id="@+id/sText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/valor2"/>
+        />
 
 </RelativeLayout>

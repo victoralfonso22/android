@@ -2,5 +2,6 @@
     <string name="app_name">Aplicación Android</string>
     <string name="valor">Holaaaaaaaa</string>
     <string name="valor2">Funciono</string>
+    <string name="hide">Introduzca un nombre</string>
 </resources>
 
